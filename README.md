@@ -11,7 +11,7 @@ Hello everyone, I’m Pham Van Binh!
 - Material UI  
 - SweetAlert2  
 
-**Website Link:**  [https://binhpv96.github.io/](https://binhpv96.github.io/)
+**Website Link:**  [https://binhpv96.me/](https://binhpv96.me)
 
 Credit: [EkiZR](https://github.com/EkiZR)  
 
